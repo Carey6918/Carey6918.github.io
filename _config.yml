@@ -1,0 +1,33 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+rouge: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: 顾梦蝶
+  email: 727929807@qq.com
+  link: http://carey6918.com
+  weibo: https://weibo.com/p/1005051987335911/home?from=page_100505&mod=TAB#place
+  github: http://github.com/carey6918
+
+# 站点信息
+title: Carey's
+description: Carey's Blog
+url: http://www.carey6918.com
+
+# avatar头像及Favicon
+avatar: http://wx1.sinaimg.cn/mw690/767456e7ly8fr23hb5hvcj20ku0ku757.jpg
+favicon: http://wx1.sinaimg.cn/mw690/767456e7ly8fr23hb5hvcj20ku0ku757.jpg
+
+# google analytics 设置
+ga:
+  id: UA-54767140-1
+  url: www.carey6918.com
+
+# disqus 设置
+disqus:
+  shortname: carey6918
+
