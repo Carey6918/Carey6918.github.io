@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8399393f-5ea9-4230-886d-2d637e6547c9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/tech/2019-03-19-redis-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/tech/2019-03-19-redis-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/tech/2019-03-19-redis-2.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +61,7 @@
           <entry key="css" value="59" />
           <entry key="gitignore" value="9" />
           <entry key="html" value="208" />
-          <entry key="md" value="2115" />
+          <entry key="md" value="2133" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
@@ -70,7 +69,7 @@
         <counts>
           <entry key="CSS" value="59" />
           <entry key="HTML" value="208" />
-          <entry key="Markdown" value="1738" />
+          <entry key="Markdown" value="1756" />
           <entry key="PLAIN_TEXT" value="386" />
           <entry key="YAML" value="1" />
         </counts>
@@ -139,8 +138,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-19-redis-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="407">
-                <caret line="57" column="42" lean-forward="true" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+              <first_editor relative-caret-position="109">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -798,8 +797,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-19-redis-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="407">
-            <caret line="57" column="42" lean-forward="true" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+          <first_editor relative-caret-position="109">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           </first_editor>
           <second_editor />
         </state>
