@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8399393f-5ea9-4230-886d-2d637e6547c9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +38,7 @@
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="md" value="53" />
+          <entry key="png" value="2" />
           <entry key="scss" value="1" />
           <entry key="ttf" value="1" />
           <entry key="txt" value="2" />
@@ -50,7 +51,7 @@
           <entry key="CSS" value="3" />
           <entry key="HTML" value="21" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="Image" value="1" />
+          <entry key="Image" value="3" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="39" />
           <entry key="PLAIN_TEXT" value="23" />
@@ -63,7 +64,7 @@
           <entry key="css" value="59" />
           <entry key="gitignore" value="9" />
           <entry key="html" value="208" />
-          <entry key="md" value="2391" />
+          <entry key="md" value="2534" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
@@ -71,7 +72,7 @@
         <counts>
           <entry key="CSS" value="59" />
           <entry key="HTML" value="208" />
-          <entry key="Markdown" value="2014" />
+          <entry key="Markdown" value="2157" />
           <entry key="PLAIN_TEXT" value="386" />
           <entry key="YAML" value="1" />
         </counts>
@@ -83,26 +84,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/tech/2019-01-28-kubernetes-1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-17-redis-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -143,12 +124,22 @@
         <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="423">
-                <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+              <first_editor relative-caret-position="975">
+                <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/redis-4-3.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/redis-4-2.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -331,6 +322,12 @@
               <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -538,8 +535,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="emmm" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/resource/2018-03-08-general-git-resources.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/resource/2018-03-08-general-mac-resources.md" />
     <entry file="file://$PROJECT_DIR$/_posts/tech/2018-03-14-datastructure.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-413">
@@ -796,16 +791,6 @@
     <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-21-redis-3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-17-redis-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -816,11 +801,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-21-redis-3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/redis-4-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/redis-4-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="423">
-            <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+          <first_editor relative-caret-position="975">
+            <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
           </first_editor>
           <second_editor />
         </state>
