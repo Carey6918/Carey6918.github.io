@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8399393f-5ea9-4230-886d-2d637e6547c9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +32,7 @@
           <entry key="2019-01-21-goroutine-scheduler" value="1" />
           <entry key="CNAME" value="3" />
           <entry key="css" value="3" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="html" value="21" />
           <entry key="iml" value="2" />
           <entry key="jpg" value="1" />
@@ -54,7 +54,7 @@
           <entry key="Image" value="3" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="39" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="PLAIN_TEXT" value="24" />
           <entry key="XML" value="2" />
           <entry key="YAML" value="2" />
         </counts>
@@ -62,7 +62,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="59" />
-          <entry key="gitignore" value="9" />
+          <entry key="gitignore" value="10" />
           <entry key="html" value="208" />
           <entry key="md" value="2536" />
           <entry key="yml" value="1" />
@@ -73,7 +73,7 @@
           <entry key="CSS" value="59" />
           <entry key="HTML" value="208" />
           <entry key="Markdown" value="2159" />
-          <entry key="PLAIN_TEXT" value="386" />
+          <entry key="PLAIN_TEXT" value="387" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -84,18 +84,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-17-redis-1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="675">
-                <caret line="45" column="108" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="108" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-19-redis-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -120,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -128,6 +116,15 @@
                 <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -246,11 +243,11 @@
         <option value="$PROJECT_DIR$/_posts/tech/2019-01-28-kubernetes-1.md" />
         <option value="$PROJECT_DIR$/_posts/tech/2019-01-20-kubernetes-2.md" />
         <option value="$PROJECT_DIR$/_posts/tech/2019-01-29-kubernetes-2.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/tech/2019-03-17-redis-1.md" />
         <option value="$PROJECT_DIR$/_posts/tech/2019-03-19-redis-2.md" />
         <option value="$PROJECT_DIR$/_posts/tech/2019-03-21-redis-3.md" />
         <option value="$PROJECT_DIR$/_posts/tech/2019-03-29-redis-4.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -302,34 +299,6 @@
             <path>
               <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carey6918.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carey6918.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -491,7 +460,7 @@
     <frame x="93" y="23" width="1337" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17837837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17837837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24964234" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,7 +476,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="EvoSuite" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.16690856" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33091438" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="12" weight="0.32932332" />
@@ -709,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/tech/2019-01-29-kubernetes-2.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -825,6 +787,13 @@
             <caret line="181" column="49" lean-forward="true" selection-start-line="181" selection-start-column="49" selection-end-line="181" selection-end-column="49" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
