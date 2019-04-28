@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8399393f-5ea9-4230-886d-2d637e6547c9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/tech/2019-04-28-redis-5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/tech/2019-04-28-redis-5.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,7 +63,7 @@
           <entry key="css" value="59" />
           <entry key="gitignore" value="10" />
           <entry key="html" value="208" />
-          <entry key="md" value="2823" />
+          <entry key="md" value="2828" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
@@ -72,7 +71,7 @@
         <counts>
           <entry key="CSS" value="59" />
           <entry key="HTML" value="208" />
-          <entry key="Markdown" value="2446" />
+          <entry key="Markdown" value="2451" />
           <entry key="PLAIN_TEXT" value="387" />
           <entry key="YAML" value="1" />
         </counts>
@@ -136,8 +135,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/tech/2019-04-28-redis-5.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="51" column="177" selection-start-line="51" selection-start-column="177" selection-end-line="51" selection-end-column="177" />
+              <first_editor relative-caret-position="281">
+                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -824,8 +823,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/tech/2019-04-28-redis-5.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="51" column="177" selection-start-line="51" selection-start-column="177" selection-end-line="51" selection-end-column="177" />
+          <first_editor relative-caret-position="281">
+            <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
         </state>
