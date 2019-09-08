@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8399393f-5ea9-4230-886d-2d637e6547c9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/tech/2019-08-22-MIT6824-l2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/tech/2019-09-08-GFS-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,24 +10,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>rot</find>
-      <find>avata</find>
-      <find>##</find>
-      <find>body</find>
-      <find>Avenir</find>
-      <find>.top</find>
-      <find>style</find>
-      <find>h1</find>
-      <find>icon-</find>
-      <find>icon</find>
-      <find>&amp;</find>
-      <find>py</find>
-      <find>js/</find>
-      <find>bloomfi</find>
-    </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.10.3/libexec" />
   <component name="Git.Settings">
@@ -37,6 +19,9 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="UHWzGIwj" />
   </component>
   <component name="ProjectId" id="1PlptITr6K167k27ognoE19KfEk" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -73,6 +58,12 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
@@ -220,7 +211,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
