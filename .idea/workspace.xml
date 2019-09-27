@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8399393f-5ea9-4230-886d-2d637e6547c9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/tech/2019-09-08-GFS-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/me/2019-01-23-about-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/me/2019-01-23-about-me.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
